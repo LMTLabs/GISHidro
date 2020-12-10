@@ -1,0 +1,30 @@
+var json_PTAR_9 = {
+"type": "FeatureCollection",
+"name": "PTAR_9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1", "Nombre": "P\/T LOS GUAYOS", "TIPO": "TRATAMIENTO" }, "geometry": { "type": "Point", "coordinates": [ -67.887028895857796, 10.15214907593659 ] } },
+{ "type": "Feature", "properties": { "id": "2", "Nombre": "P\/T TAIGUAIGUAY", "TIPO": "TRATAMIENTO" }, "geometry": { "type": "Point", "coordinates": [ -67.479394651240895, 10.148950906029317 ] } },
+{ "type": "Feature", "properties": { "id": "4", "Nombre": "E\/B LA PUNTA", "TIPO": "BOMBEO LAGO" }, "geometry": { "type": "Point", "coordinates": [ -67.597787023548989, 10.20676850938078 ] } },
+{ "type": "Feature", "properties": { "id": "5", "Nombre": "P\/P LUCIO BALDO  SOULES", "TIPO": "POTABLE" }, "geometry": { "type": "Point", "coordinates": [ -67.912719389280667, 10.06239519851473 ] } },
+{ "type": "Feature", "properties": { "id": "6", "Nombre": "P\/P ALEJO ZULOAGA", "TIPO": "POTABLE" }, "geometry": { "type": "Point", "coordinates": [ -68.059210020196787, 10.1397282692798 ] } },
+{ "type": "Feature", "properties": { "id": "7", "Nombre": "E\/B LOS COLORADOS", "TIPO": "BOMBEO" }, "geometry": { "type": "Point", "coordinates": [ -68.012068625957113, 10.191754008191987 ] } },
+{ "type": "Feature", "properties": { "id": "8", "Nombre": "P\/T LA MARIPOSA", "TIPO": "TRATAMIENTO" }, "geometry": { "type": "Point", "coordinates": [ -68.044148475647262, 10.070142456983916 ] } },
+{ "type": "Feature", "properties": { "id": "9", "Nombre": "EMBALSE PAO - CACHINCHE", "TIPO": "EMBALSE" }, "geometry": { "type": "Point", "coordinates": [ -68.128217984375027, 9.872553391945035 ] } },
+{ "type": "Feature", "properties": { "id": "10", "Nombre": "EMBALSE PAO - LA BALSA", "TIPO": "EMBALSE" }, "geometry": { "type": "Point", "coordinates": [ -68.149512684140774, 9.57774333228036 ] } },
+{ "type": "Feature", "properties": { "id": "3", "Nombre": "E\/B CAMBURITO", "TIPO": "BOMBEO LAGO" }, "geometry": { "type": "Point", "coordinates": [ -67.581878359104707, 10.195422737690729 ] } },
+{ "type": "Feature", "properties": { "id": "11", "Nombre": "E\/B CANOABO", "TIPO": "BOMBEO" }, "geometry": { "type": "Point", "coordinates": [ -68.328469533109583, 10.416357937170559 ] } },
+{ "type": "Feature", "properties": { "id": "12", "Nombre": "P\/T MORON", "TIPO": "TRATAMIENTO" }, "geometry": { "type": "Point", "coordinates": [ -68.192835295309408, 10.501950448411751 ] } },
+{ "type": "Feature", "properties": { "id": "13", "Nombre": "P\/T MONTALBAN", "TIPO": "TRATAMIENTO" }, "geometry": { "type": "Point", "coordinates": [ -68.31240718614113, 10.203301311551822 ] } },
+{ "type": "Feature", "properties": { "id": "14", "Nombre": "EMBALSE CANOABO", "TIPO": "EMBALSE" }, "geometry": { "type": "Point", "coordinates": [ -68.328904249711542, 10.385454151629144 ] } },
+{ "type": "Feature", "properties": { "id": "15", "Nombre": "EMBALSE GUATAPARO", "TIPO": "EMBALSE" }, "geometry": { "type": "Point", "coordinates": [ -68.063371959809459, 10.171204604145656 ] } },
+{ "type": "Feature", "properties": { "id": "18", "Nombre": "EMBALSE LAS DELICIAS", "TIPO": "EMBALSE" }, "geometry": { "type": "Point", "coordinates": [ -68.336113358539009, 9.948774932340925 ] } },
+{ "type": "Feature", "properties": { "id": "20", "Nombre": "P\/P ELIAS NAZAR ARROYO", "TIPO": "POTABLE" }, "geometry": { "type": "Point", "coordinates": [ -68.598122960397305, 9.684270128224956 ] } },
+{ "type": "Feature", "properties": { "id": "16", "Nombre": "P\/T EZEQUIEL ZAMORA", "TIPO": "TRATAMIENTO" }, "geometry": { "type": "Point", "coordinates": [ -68.561563811550485, 9.632183415205006 ] } },
+{ "type": "Feature", "properties": { "id": "17", "Nombre": "P\/T LAS VEGAS", "TIPO": "TRATAMIENTO" }, "geometry": { "type": "Point", "coordinates": [ -68.634957047682178, 9.512876435269467 ] } },
+{ "type": "Feature", "properties": { "id": "555", "Nombre": "P\/T LAGUNA DE MADURACIÓN EL PAITO", "TIPO": "TRATAMIENTO" }, "geometry": { "type": "Point", "coordinates": [ -67.99009884156311, 10.092379984738107 ] } },
+{ "type": "Feature", "properties": { "id": "666", "Nombre": "E\/B GUACARA", "TIPO": "BOMBEO" }, "geometry": { "type": "Point", "coordinates": [ -67.90963069590785, 10.214939998140249 ] } },
+{ "type": "Feature", "properties": { "id": "5551", "Nombre": "E\/B SAN JOAQUIN", "TIPO": "BOMBEO" }, "geometry": { "type": "Point", "coordinates": [ -67.517251738089385, 10.228507697765608 ] } },
+{ "type": "Feature", "properties": { "id": "8989", "Nombre": "P\/T LOS GUAYOS", "TIPO": "TRATAMIENTO" }, "geometry": { "type": "Point", "coordinates": [ -67.848532602938661, 10.211815588646219 ] } }
+]
+}
