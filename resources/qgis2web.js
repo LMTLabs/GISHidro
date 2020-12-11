@@ -80,7 +80,7 @@ layerSwitcher.showPanel();
 
 
     var searchLayer = new SearchLayer({
-      layer: lyr_Estanques_7,
+      layer: lyr_Estanques_8,
       colName: 'nombre_tq',
       zoom: 10,
       collapsed: true,
@@ -92,7 +92,7 @@ layerSwitcher.showPanel();
     .getElementsByTagName('button')[0].className +=
     ' fa fa-binoculars';
     
-map.getView().fit([-7764594.387006, 937783.052711, -7325058.486252, 1190998.060024], map.getSize());
+map.getView().fit([-7802730.078309, 920023.762308, -7258632.782256, 1233476.202855], map.getSize());
 
 var NO_POPUP = 0
 var ALL_FIELDS = 1
